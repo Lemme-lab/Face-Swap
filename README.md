@@ -35,7 +35,7 @@ back together.
 ---
 Now we can put our prepared video and our cropped image into the neural network, which changes specific attributes that can be seen on the colormap. You can swap the whole face and also just the lips, hair a.s.o.
 ---
-              |                | 
+         Input             |        Mask + Image       |            Mask
 :-------------------------:|:-------------------------:|:-------------------------:
 |!<img width="306" alt="Bildschirmfoto 2022-07-19 um 09 34 03" src="https://user-images.githubusercontent.com/71924682/179948115-4ea8c375-3698-4f35-a2f3-b11e0a11691a.png">|<img width="306" alt="Bildschirmfoto 2022-07-19 um 09 25 08" src="https://user-images.githubusercontent.com/71924682/179948200-c40981cf-b60f-4827-85c9-a378e02c742e.png">|<img width="306" alt="Bildschirmfoto 2022-07-19 um 09 38 37" src="https://user-images.githubusercontent.com/71924682/179948303-41423ed1-59e0-4848-b9de-c5639f1e8d97.png">
 ---
