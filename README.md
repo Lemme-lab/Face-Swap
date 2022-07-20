@@ -20,20 +20,14 @@ It swapes the face of the input video with the input image.
 ---
 # Input Video:
 ---
-We split the video into frames
-and then crop those frames with
-the help of a face align algo.
-For the position we use the
-optimal Postition. Then we
-put the cropped frames
-back together. 
+### We split the video into frames and then crop those frames with the help of a face align algo. For the position we use the optimal Postition. Then we put the cropped frames back together. 
 ---
 <img width="382" alt="Bildschirmfoto 2022-07-19 um 09 50 06" src="https://user-images.githubusercontent.com/71924682/179947822-515b0fb6-5ee5-4456-be51-687fd9fc7395.png">
 ---
 
 # Face Swap NN:
 ---
-Now we can put our prepared video and our cropped image into the neural network, which changes specific attributes that can be seen on the colormap. You can swap the whole face and also just the lips, hair a.s.o.
+### Now we can put our prepared video and our cropped image into the neural network, which changes specific attributes that can be seen on the colormap. You can swap the whole face and also just the lips, hair a.s.o.
 ---
 
 
@@ -44,35 +38,30 @@ Input Image                | Mask + Image               | Mask
 ---
 # Usage:
 ---
-First you have to process your video so 
-the face is in the middle. Then you have 
-to align your importet image. At last you 
-can then start the prediction which will 
-be automaticly saved.
+### First you have to process your video so the face is in the middle. Then you have to align your importet image. At last you can then start the prediction which will be automaticly saved.
 ---
 # Optimisations:
 ---
-The code has already been optimized. The Picture
-and Video should be taken in good lighting
-for a good result. Too much head movement
-and a wobbly Video will worsen the result <br>
-immensely.
+### The code has already been optimized. The Picture and Video should be taken in good lighting for a good result. Too much head movement and a wobbly Video will worsen the result immensely.
 ---
 ## Bad Lighting / Movement
-https://user-images.githubusercontent.com/71924682/179948916-3468a00e-ded3-4c48-bbef-68fec722870c.mp4
+![ezgif com-gif-maker-9](https://user-images.githubusercontent.com/71924682/179955262-f515fb2a-7c67-450c-83bd-10add78cd53d.gif)
 ---
-## Movement
-https://user-images.githubusercontent.com/71924682/179948949-f16453f1-a907-461c-a5f4-3269fd065080.mp4
+## Bad Movement
+![ezgif com-gif-maker-10](https://user-images.githubusercontent.com/71924682/179955289-035796f4-fddb-4f3a-9a8c-34d019d082bd.gif)
 ---
 ## Better Lighting & Movement
-https://user-images.githubusercontent.com/71924682/179948969-9ca2d7e9-75b0-4cf9-b2a1-d7b5aeba31b4.mp4
+![ezgif com-gif-maker-11](https://user-images.githubusercontent.com/71924682/179955324-f1e5723b-31e0-452c-bd17-3e44bc5b039c.gif)
 ---
 #Output Examples
----  
-                           |                           |                           |
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-|https://user-images.githubusercontent.com/71924682/179949650-1ad736ed-69b0-4ed1-b427-b6ab40519e20.mp4|[mask_video.webm](https://user-images.githubusercontent.com/71924682/179949753-fae88880-2adf-4c04-9bb2-2041e5394aeb.webm)|https://user-images.githubusercontent.com/71924682/179949790-af92ecca-3fd3-46ed-a84c-139dde1f0711.mp4|https://user-images.githubusercontent.com/71924682/179949783-2837117c-d06e-4fd3-b857-ddec698f447d.mp4
 ---
+![ezgif com-gif-maker-12](https://user-images.githubusercontent.com/71924682/179956175-06bf372a-1bf1-4dff-a865-799983533487.gif)
+---
+![ezgif com-gif-maker-13](https://user-images.githubusercontent.com/71924682/179956214-a7fe5edd-c509-466f-a334-1e7a5ef5ab49.gif)
+---
+![ezgif com-gif-maker-14](https://user-images.githubusercontent.com/71924682/179956244-59608e70-0fe3-46df-b253-f98073847a0c.gif)
+---
+![Uploading ezgif.com-gif-maker-15.gif…]()
 
 
 
