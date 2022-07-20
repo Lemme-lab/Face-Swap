@@ -53,7 +53,7 @@ Input Image                | Mask + Image               | Mask
 ## Better Lighting & Movement
 ![ezgif com-gif-maker-11](https://user-images.githubusercontent.com/71924682/179955324-f1e5723b-31e0-452c-bd17-3e44bc5b039c.gif)
 ---
-#Output Examples
+# Output Examples
 ---
 ![ezgif com-gif-maker-12](https://user-images.githubusercontent.com/71924682/179956175-06bf372a-1bf1-4dff-a865-799983533487.gif)
 ---
@@ -61,7 +61,7 @@ Input Image                | Mask + Image               | Mask
 ---
 ![ezgif com-gif-maker-14](https://user-images.githubusercontent.com/71924682/179956244-59608e70-0fe3-46df-b253-f98073847a0c.gif)
 ---
-![Uploading ezgif.com-gif-maker-15.gif…]()
+![ezgif com-gif-maker-15](https://user-images.githubusercontent.com/71924682/179956449-a7cd3487-b053-462c-a88e-93c72d943a32.gif)
 
 
 
