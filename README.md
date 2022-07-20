@@ -3,8 +3,10 @@
 ---
 
 ![cropped_input_image-2](https://user-images.githubusercontent.com/71924682/179951079-3f1acb1a-c3f1-458a-9b35-9ce9bf003c22.jpg)
-[ezgif.com-gif-maker.webm](https://user-images.githubusercontent.com/71924682/179951136-0dfcf5a5-1989-4a07-bfc7-af46962ba1c0.webm)
-https://user-images.githubusercontent.com/71924682/179951149-46d85195-8603-4f00-b49e-ada1d593e975.mp4
+![ezgif com-gif-maker-2](https://user-images.githubusercontent.com/71924682/179951648-8b154de3-f3bd-42f6-92d7-f21a8b55e963.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/71924682/179951659-139a1df6-a466-43e4-8bac-c612a6ca2b9f.gif)
+
+
 
 
 
