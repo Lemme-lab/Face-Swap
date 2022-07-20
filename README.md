@@ -2,7 +2,7 @@
 ## In Constrained Environment
 ---
 
-![cropped_input_image-2](https://user-images.githubusercontent.com/71924682/179951079-3f1acb1a-c3f1-458a-9b35-9ce9bf003c22.jpg =320x320)
+![cropped_input_image-2](https://user-images.githubusercontent.com/71924682/179951079-3f1acb1a-c3f1-458a-9b35-9ce9bf003c22.jpg)
 ![ezgif com-gif-maker-3](https://user-images.githubusercontent.com/71924682/179952109-f0e9c279-a1b7-4daa-805e-8051fa8115ae.gif)
 ![ezgif com-gif-maker-4](https://user-images.githubusercontent.com/71924682/179952116-24957de3-5ded-4be2-b723-8fb258449cc6.gif)
 
