@@ -1,7 +1,5 @@
-# Face Swap AI
-## In Constrained Environment
+# Face Swap AI - In Constrained Environment
 ---
-
 ![cropped_input_image-2](https://user-images.githubusercontent.com/71924682/179951079-3f1acb1a-c3f1-458a-9b35-9ce9bf003c22.jpg)
 ---
 ![ezgif com-gif-maker-3](https://user-images.githubusercontent.com/71924682/179952109-f0e9c279-a1b7-4daa-805e-8051fa8115ae.gif)
@@ -18,7 +16,7 @@ It swapes the face of the input video with the input image.
 ---
 ![ezgif com-gif-maker-6](https://user-images.githubusercontent.com/71924682/179953372-1d901100-264d-4bdb-b79d-fa21d45d6f4d.gif)
 ---
-![ezgif com-gif-maker-7](https://user-images.githubusercontent.com/71924682/179953391-2c53f391-fdaa-4592-a187-2d975d73fd1c.gif)
+![ezgif com-gif-maker-8](https://user-images.githubusercontent.com/71924682/179953696-82af6b6b-dfec-4000-a1d8-1413fe64f607.gif)
 ---
 # Input Video:
 ---
@@ -37,9 +35,9 @@ back together.
 ---
 Now we can put our prepared video and our cropped image into the neural network, which changes specific attributes that can be seen on the colormap. You can swap the whole face and also just the lips, hair a.s.o.
 ---
-Input Image                | Input Video               | Output Video
+              |                | 
 :-------------------------:|:-------------------------:|:-------------------------:
-|!<img width="224" alt="Bildschirmfoto 2022-07-19 um 09 34 03" src="https://user-images.githubusercontent.com/71924682/179948115-4ea8c375-3698-4f35-a2f3-b11e0a11691a.png">|<img width="306" alt="Bildschirmfoto 2022-07-19 um 09 25 08" src="https://user-images.githubusercontent.com/71924682/179948200-c40981cf-b60f-4827-85c9-a378e02c742e.png">|<img width="306" alt="Bildschirmfoto 2022-07-19 um 09 38 37" src="https://user-images.githubusercontent.com/71924682/179948303-41423ed1-59e0-4848-b9de-c5639f1e8d97.png">
+|!<img width="306" alt="Bildschirmfoto 2022-07-19 um 09 34 03" src="https://user-images.githubusercontent.com/71924682/179948115-4ea8c375-3698-4f35-a2f3-b11e0a11691a.png">|<img width="306" alt="Bildschirmfoto 2022-07-19 um 09 25 08" src="https://user-images.githubusercontent.com/71924682/179948200-c40981cf-b60f-4827-85c9-a378e02c742e.png">|<img width="306" alt="Bildschirmfoto 2022-07-19 um 09 38 37" src="https://user-images.githubusercontent.com/71924682/179948303-41423ed1-59e0-4848-b9de-c5639f1e8d97.png">
 ---
 # Usage:
 ---
