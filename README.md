@@ -2,9 +2,10 @@
 ## In Constrained Environment
 ---
 
-![cropped_input_image-2](https://user-images.githubusercontent.com/71924682/179951079-3f1acb1a-c3f1-458a-9b35-9ce9bf003c22.jpg)
-![ezgif com-gif-maker-2](https://user-images.githubusercontent.com/71924682/179951648-8b154de3-f3bd-42f6-92d7-f21a8b55e963.gif)
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/71924682/179951659-139a1df6-a466-43e4-8bac-c612a6ca2b9f.gif)
+![cropped_input_image-2](https://user-images.githubusercontent.com/71924682/179951079-3f1acb1a-c3f1-458a-9b35-9ce9bf003c22.jpg | width=320)
+![ezgif com-gif-maker-3](https://user-images.githubusercontent.com/71924682/179952109-f0e9c279-a1b7-4daa-805e-8051fa8115ae.gif)
+![ezgif com-gif-maker-4](https://user-images.githubusercontent.com/71924682/179952116-24957de3-5ded-4be2-b723-8fb258449cc6.gif)
+
 
 
 
