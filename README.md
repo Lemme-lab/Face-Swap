@@ -14,16 +14,13 @@
 The idea was to create a Face swap AI that can be deployed in Constrained Environments. 
 It swapes the face of the input video with the input image.
 ---
-https://user-images.githubusercontent.com/71924682/179946894-4010f735-d5c5-4aca-a2b7-2d7a441d4e7c.mp4
+![ezgif com-gif-maker-5](https://user-images.githubusercontent.com/71924682/179953028-cd528aba-4c51-434f-8554-c5249ec480a5.gif)
 ---
-
+![ezgif com-gif-maker-6](https://user-images.githubusercontent.com/71924682/179953372-1d901100-264d-4bdb-b79d-fa21d45d6f4d.gif)
 ---
-Input Video                |  Processed Video
-:-------------------------:|:-------------------------:
-!https://user-images.githubusercontent.com/71924682/179947153-65e0bf7b-40d2-4fed-a20f-bb7cd75b3269.mp4   |  ![video3.webm](https://user-images.githubusercontent.com/71924682/179947249-bdb5cee7-4369-42df-bcf5-72427aa3ed9f.webm)
-
+![ezgif com-gif-maker-7](https://user-images.githubusercontent.com/71924682/179953391-2c53f391-fdaa-4592-a187-2d975d73fd1c.gif)
 ---
-#Input Video:
+# Input Video:
 ---
 We split the video into frames
 and then crop those frames with
