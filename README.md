@@ -3,7 +3,9 @@
 ---
 Input Image                | Input Video               | Output Video
 :-------------------------:|:-------------------------:|:-------------------------:
-| ![cropped_input_image-2](https://user-images.githubusercontent.com/71924682/179946326-68b5fbc9-77b3-4457-8368-731635717f79.jpg) |![video3.webm](https://user-images.githubusercontent.com/71924682/179946476-f36b7011-e590-4d61-b599-388e3fa4a2c2.webm) | !https://user-images.githubusercontent.com/71924682/179946598-fb3957a6-aeda-469f-8164-391e154bff1c.mp4
+|![cropped_input_image-2](https://user-images.githubusercontent.com/71924682/179950711-8d5f61c3-c413-4681-bbff-a384eb050c3b.jpg)|[ezgif.com-gif-maker.webm](https://user-images.githubusercontent.com/71924682/179950761-6649c966-b962-4b4d-8ada-a96da5736019.webm)| https://user-images.githubusercontent.com/71924682/179950933-af511af6-2c01-42b6-bf11-561c4d03a2b5.mp4
+
+
 ---
 #Face Swap Idea
 ---
