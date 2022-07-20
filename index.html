@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Face Swap AI</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+
+    <nav class="Main">
+
+        <div class=Picture>
+
+            <div class=Picture_Frame>
+
+                <div class="container">
+                    <img alt="" class="image_box" src="data/cropped_input_image-2.jpg" width=28%
+                        class="img_main">
+    
+                    <video width=28% autoplay loop preload="metadata" class="image_box">
+                        <source src="data/video3.webm" type="video/mp4">
+                    </video>
+    
+                    <video width=28% autoplay loop preload="metadata" class="image_box">
+                        <source src="data/face_swap_video_11.mp4" type="video/mp4">
+                    </video>
+                </div>
+
+            </div>
+
+            
+
+            <div class=Picture_Headline>
+                <h2 style="color: rgb(0, 0, 0); font-size: 4.2rem;">Face Swap AI</h2>
+                <p style="color: rgb(0, 0, 0); font-size: 2rem;">&nbsp;&nbsp;In Constrained Environment</p>
+            </div>
+
+        </div>
+
+        <div class=linie_0></div>
+        <div class=linie_1></div>
+        <div class=linie_2></div>
+        <div class=linie_3></div>
+        <div class=linie_4></div>
+
+
+        <div class=Project>
+
+            <div class=Project_Head_1>
+                <h1 style = "font-size: 4vw;">Face Swap Idea</h1>
+                <a id="Project_Head_1"></a>
+            </div>
+
+            <div class=Project_box_1>
+                <video width=120% autoplay loop class="video3">
+                    <source src="data/face_swap_video_4-2.mp4" type="video/mp4">
+                </video>
+            </div>
+
+            <div class=Project_Text_1>
+                <p style=" font-family: Tahoma, sans-serif; font-size: 2.5vw;">
+                    The idea was to create a Face swap AI that can be deployed in Constrained Environments.
+                    It swapes the face of the input video with the input image.
+                </p>
+            </div>
+
+
+            <div class=Project_Text_2>
+                <p style=" font-family: Tahoma, sans-serif">
+
+                </p>
+            </div>
+
+            <div class=Project_Head_2>
+                <h1>Input-Data</h1>
+            </div>
+
+            <div class=Project_box_2>
+                <video width="520" height="520" autoplay loop preload="metadata" class="video3" >
+                    <source src="data/output_video_11-2.mp4" type="video/mp4">
+                </video>
+                <video width="352" height="352" autoplay loop preload="metadata" class="video3" style="top:-87px">
+                    <source src="data/video3.webm" type="video/mp4">
+                </video>
+            </div>
+
+
+            <div class="container_Input_Data_Code">
+                <img style="border-radius: 16px;" alt="" src="data/Bildschirmfoto 2022-07-19 um 09.50.06.png"
+                    width="490" height="400" class="Input_Data_Code_img">
+            </div>
+
+
+
+            <div class=Project_small_Head_2>
+                <h1>Input Video:</h1>
+                <a id="Project_small_Head_2"></a>
+            </div>
+
+            <div class=Project_Text_2>
+                <p style=" font-family: Tahoma, sans-serif">
+                    We split the video into frames <br>
+                    and then crop those frames with <br>
+                    the help of a face align algo. <br>
+                    For the position we use the<br>
+                    optimal Postition. Then we
+                    <br>put the cropped frames <br>
+                    &nbsp;&nbsp;back together.
+
+                </p>
+            </div>
+
+
+            <div class=Project_Head_3>
+                <h1>Face Swap NN: </h1>
+                <a id="Project_Head_3"></a>
+            </div>
+
+
+
+            <div class=Project_Text_3>
+                <p style=" font-family: Tahoma, sans-serif">
+                    Now we can put our prepared video and our cropped image into the neural network,
+                    which changes specific attributes that can be seen on the colormap. You can swap the whole
+                    face and also just the lips, hair a.s.o.
+                </p>
+            </div>
+
+            <div class="container_3">
+                <img style="border-radius: 16px; margin-right: 20px;" alt=""
+                    src="data/Bildschirmfoto 2022-07-19 um 09.34.03.png" width=20%  class="Training_img">
+                <img style="border-radius: 16px; margin-right: 20px;" alt=""
+                    src="data/Bildschirmfoto 2022-07-19 um 09.25.08.png" width=20% class="Training_img">
+                <img style="border-radius: 16px;" alt="" src="data/Bildschirmfoto 2022-07-19 um 09.38.37.png"
+                width=20% class="Training_img">
+            </div>
+
+
+            <div class=Project_small_Head_4_1>
+                <h1>Usage:</h1>
+                <a id="Project_Head_3"></a>
+            </div>
+
+            <div class=Project_small_Head_4_2>
+                <h1>Optimisations:</h1>
+                <a id="Project_Head_3"></a>
+            </div>
+
+
+
+            <div class="container_4">
+                <div style="margin-left: 00px;">
+                    <h1 style="float:left;color: whitesmoke; margin-right: 50px; margin-top: 100px;">Bad Lighting /
+                        Movement</h1>
+                    <video width="300" height="300" autoplay loop class="video3">
+                        <source src="data/face_swap_video_6.mp4" type="video/mp4">
+                    </video>
+                </div>
+                <div style="margin-left: 155px;">
+                    <h1 style="float:left;color: whitesmoke; margin-right: 50px; margin-top: 100px;">Movement</h1>
+                    <video width="300" height="300" autoplay loop class="video3">
+                        <source src="data/face_swap_video_7.mp4" type="video/mp4">
+                    </video>
+                </div>
+                <div style="margin-left: 25px;">
+                    <h1 style="float:left;color: whitesmoke; margin-right: 50px; margin-top: 100px; font-size: 1.2rem;">
+                        Better Lighting & Movement</h1>
+                    <video width="300" height="300" autoplay loop class="video3">
+                        <source src="data/face_swap_video_9.mp4" type="video/mp4">
+                    </video>
+                </div>
+
+            </div>
+
+
+            <div class=Project_Text_4_1>
+                <p style=" font-family: Tahoma, sans-serif">
+                    First you have to process your video so <br>
+                    the face is in the middle. Then you have <br>
+                    to align your importet image. At last you <br>
+                    can then start the prediction which will <br>
+                    be automaticly saved.
+                </p>
+            </div>
+
+            <div class=Project_Text_4_2>
+                <p style=" font-family: Tahoma, sans-serif">
+                    The code has already been optimized.<br> The Picture
+                    and Video should be taken <br>in good lighting
+                    for a good result. <br>Too much head movement
+                    and a <br>wobbly Video will worsen the result <br>
+                    immensely.
+                </p>
+            </div>
+
+
+
+            <div class=Project_Head_5>
+                <h1>Output Examples</h1>
+            </div>
+
+            <div class="output_img">
+                <video width=24% height=24% autoplay loop preload="metadata">
+                    <source src="data/output_video_12.mp4" type="video/mp4">
+                </video>
+                <video width=24% height=24% autoplay loop preload="metadata" style = "padding-top: 10px;">
+                    <source src="data/mask_video.webm" type="video/mp4">
+                </video>
+                <video width=24% height=24% autoplay loop preload="metadata">
+                    <source src="data/face_swap_video_11.mp4" type="video/mp4">
+                </video>
+                <video width=24% height=24% autoplay loop preload="metadata">
+                    <source src="data/face_swap_video_13.mp4" type="video/mp4">
+                </video>
+            </div>
+
+
+        </div>
+
+
+
+
+    </nav>
+
+
+</body>
+<footer>
+    <div class="footer__container">
+        <div class="footer__links">
+            <div class="footer__link--wrapper">
+                <div class="footer__link--items">
+                    <a href="https://github.com/Lemme-lab">
+                        <h2>GIT-Hub</h2>
+                    </a>
+                </div>
+                <div class="footer__link--items">
+                    <a href="https://stackoverflow.com/users/14211553/schleichdie">
+                        <h2>Stack Overflow</h2>
+                </div>
+            </div>
+            <div class="footer__link--wrapper">
+                <div class="footer__link--items">
+                    <a href="http://127.0.0.1:5500/Still%20in%20work/index.html#">
+                        <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Repository</h2>
+                    </a>
+                </div>
+                <div class="footer__link--items">
+                    <a href="https://twitter.com/NopeLemme">
+                        <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Twitter</h2>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<script src=""></script>
+
+</html>
