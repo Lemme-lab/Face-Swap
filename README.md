@@ -62,9 +62,13 @@ Input Image                | Mask + Image               | Mask
 ![ezgif com-gif-maker-14](https://user-images.githubusercontent.com/71924682/179956244-59608e70-0fe3-46df-b253-f98073847a0c.gif)
 ---
 ![ezgif com-gif-maker-15](https://user-images.githubusercontent.com/71924682/179956449-a7cd3487-b053-462c-a88e-93c72d943a32.gif)
+---
 
-
-
+---
+https://github.com/AliaksandrSiarohin/motion-cosegmentation
+---
+http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
+---
 
 
 
