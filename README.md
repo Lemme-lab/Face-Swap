@@ -1,9 +1,11 @@
 # Face Swap AI
-##In Constrained Environment
+## In Constrained Environment
 ---
-Input Image                | Input Video               | Output Video
-:-------------------------:|:-------------------------:|:-------------------------:
-|![cropped_input_image-2](https://user-images.githubusercontent.com/71924682/179950711-8d5f61c3-c413-4681-bbff-a384eb050c3b.jpg)|[ezgif.com-gif-maker.webm](https://user-images.githubusercontent.com/71924682/179950761-6649c966-b962-4b4d-8ada-a96da5736019.webm)| https://user-images.githubusercontent.com/71924682/179950933-af511af6-2c01-42b6-bf11-561c4d03a2b5.mp4
+
+![cropped_input_image-2](https://user-images.githubusercontent.com/71924682/179951079-3f1acb1a-c3f1-458a-9b35-9ce9bf003c22.jpg)
+[ezgif.com-gif-maker.webm](https://user-images.githubusercontent.com/71924682/179951136-0dfcf5a5-1989-4a07-bfc7-af46962ba1c0.webm)
+https://user-images.githubusercontent.com/71924682/179951149-46d85195-8603-4f00-b49e-ada1d593e975.mp4
+
 
 
 ---
